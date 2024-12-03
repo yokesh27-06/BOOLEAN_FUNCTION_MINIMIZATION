@@ -49,13 +49,15 @@ RegisterNumber:24005930
 
 
 **RTL realization**
-![WhatsApp Image 2024-12-03 at 15 40 25_9667a1a5](https://github.com/user-attachments/assets/409fddbf-b12e-43e7-825c-1743eb2a6a90)
+![WhatsApp Image 2024-12-03 at 19 09 56_ff44ea9b](https://github.com/user-attachments/assets/a5889f84-684d-456f-b1d9-3b7bf9885902)
+
 
 
 **Output:**
 
 **RTL**
-![WhatsApp Image 2024-12-03 at 15 40 25_24ff2d23](https://github.com/user-attachments/assets/a58c61b6-6604-408a-ab13-98bdaa4b4393)
+![WhatsApp Image 2024-12-03 at 19 11 12_02e3c7ec](https://github.com/user-attachments/assets/dd187615-6ac9-4986-a257-c6467f5022f3)
+
 
 
 **Timing Diagram**
